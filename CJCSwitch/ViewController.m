@@ -23,7 +23,7 @@
     CJCSwitch *demoView = [[CJCSwitch alloc] initWithFrame:CGRectMake(20, 70, 46, 23)];
     
     demoView.onText = @"开oioioio";
-    
+    //kasdflkjsjdfjlsdjlfjklsdjf
     demoView.offText = @"关jojoj";
     
     demoView.offColor = [UIColor redColor];
